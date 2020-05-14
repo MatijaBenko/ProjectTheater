@@ -1,0 +1,2 @@
+# ProjectTheater
+In this project, I wrote a python program that can be used by small theaters to sell tickets for performances. The program allows a theater to enter the number of rows and columns of seating that they have and the price for each row of seats. It will then allow the theater staff to sell individual seats or groups of seats, give the total for each order, and keep track of which seats are still available.
