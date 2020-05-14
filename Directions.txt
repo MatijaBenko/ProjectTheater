@@ -1,0 +1,20 @@
+PROJECT 1:
+
+Step 1:
+    Will be prompt to Enter Number of Rows & Columns
+
+Step 2:
+    Will be prompt to Enter cost for seat given each Row
+
+Step 3:
+    Enjoy the Program
+
+Using Sell Ticket
+    -1st Row starts at Row 0
+    -If Seat is Taken you will be taken back to the main Interface
+
+theater.txt
+    - Holds interface where it displays which seats are available & those that are not
+
+Cost.txt
+    - Holds the cost for seat in the given row as a list on one line in the .txt file
